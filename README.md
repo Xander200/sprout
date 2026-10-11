@@ -1,4 +1,6 @@
-## My First git repo!!
+# Sprout: Grow to the Moon
 
-hi im starting programming on git cuz it looks fun
+Public web pages for the Sprout Android game, served by GitHub Pages.
 
+- Privacy policy: https://xander200.github.io/sprout/privacy-policy.html
+- Home: https://xander200.github.io/sprout/
